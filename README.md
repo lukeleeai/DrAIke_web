@@ -4,7 +4,7 @@ The website that lets you dance to In My Feelings, the viral song by Drake, and 
 
 As you can guess, the name “DrAIke” is the compound word of Drake and AI. DrAIke refers to both this webiste and the master dancer in this game. Depending on how well you you copy DrAIke, you can earn the score and watch fun videos made by PoseNet. This project utilizes TensorFlow.js, the popular deep learning framework that runs on browers, and PoseNet, the project that detects the poses through computer vision. Both are developed by Google. (I love you Google!) . 
 
-We began this project when we got inspired by [this video](https://www.youtube.com/watch?v=prswDGGmYaE) of [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), the well-known Youtuber who ambitiously educate deep learning to people. He also provided us helpful feedbacks, and we could improve our website. 
+We began this project when we got inspired by [this video](https://www.youtube.com/watch?v=prswDGGmYaE) of [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), the well-known Youtuber who ambitiously educate deep learning to people. He also provided us helpful feedbacks, and we could improve our website. Here is his PoseNet code: https://github.com/llSourcell/InMyFeelings_Challenge
 
 We will keep adding the documents here and improve our website.  
 Actually, we are highschoolers, and this is our first web project. So there can be many stupid codes. If you want to improve them, please let us know on "issues".
