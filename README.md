@@ -2,7 +2,7 @@
 
 A website that lets you dance to In My Feelings, the viral song by Drake. It uses PoseNet to compare DrAIke's and your poses and score how well you copied him. 
 
-Actually, this is pretty fun. Try it [here.](https://cryptic-taiga-14703.herokuapp.com/)
+Actually, this is really fun. You don't have be a dancer. Try it [here.](https://cryptic-taiga-14703.herokuapp.com/)
 
 As you can guess, the name “DrAIke” is the compound word of Drake and AI. DrAIke refers to both this webiste and the master dancer in this game. Depending on how well you you copy DrAIke, you can earn the score and watch fun videos made by PoseNet. This project utilizes TensorFlow.js, the popular deep learning framework that runs on browers, and PoseNet, the project that detects the poses through computer vision. Both are developed by Google. (I love you Google!) 
 
