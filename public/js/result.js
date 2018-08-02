@@ -99,4 +99,4 @@ setTimeout(function(){display_score.innerHTML = '2'; display_score.style.fontSiz
 setTimeout(function(){display_score.innerHTML = '3'; display_score.style.fontSize = "200px"}, 2000);
 setTimeout(function(){display_score.innerHTML = score; display_score.style.fontSize = "400px"}, 3000);
 setTimeout(function(){setAutoScroll(20);}, 5000);
-setTimeout(function(){video.play()}, 3000); 
+setTimeout(function(){video.play()}, 1000); 

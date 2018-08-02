@@ -38,17 +38,5 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-var MongoClient = mongodb.MongoClient; 
-var url = 'mongodb://greenblatt:kinesis1717!@hafscluster-shard-00-00-cya=cf.mongodb.net:27017,hafscluster-shard-00-01-cyacf.mongodb.net:27017,hafscluster-shard-00-02-cyacf.mongodb.net:27017/mbot?ssl=true&replicaSet=hafsCluster-shard-0&authSource=admin';
-
-
-
-
-
-
-
-
-
-
 
 module.exports = app;

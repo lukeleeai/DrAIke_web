@@ -9,9 +9,8 @@ h1 {
 }
 
 #result_video{
-  width: 80%; 
+  width: 100%; 
   height: auto;
-  margin: 0 auto;
 }
 
 #section1{
@@ -29,12 +28,10 @@ h1 {
 }
 
 #section2{
-  height: 100vh
-  line-height: 100vh;
+  position: relative;
+  height: 100vh;
   background-color: #ffffff;
   text-align: center;
-  /*vertical-align: middle;
-  display: table-cell;*/
 }
 
 #scrollDown{

@@ -269,9 +269,9 @@ function detectPoseInRealTime(video, net) {
 
 		if(score > 0 && eucDis > 4000){
 		score -= 1;
-		}  else if(score < 99 && eucDis <= 5300 && step < 261){
+		}  else if(score < 99 && eucDis <= 5500 && step < 261){
 		score += 2;
-		} else if(score < 99 && eucDis <= 6600 && step >= 261){
+		} else if(score < 98 && eucDis <= 6400 && step >= 261){
 			score += 3;
 		}
       }
@@ -343,6 +343,7 @@ function euclideanDistance(poseVector1, poseVector2){
 function start(){
   document.getElementById('master').play();
   document.getElementById('start_button').style.display = 'none';
+  document.getElementById('score').style.display = 'block';
   document.getElementById('score').innerHTML = "";
   isPlay = true;
   start = new Date(); 
