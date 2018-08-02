@@ -1,6 +1,6 @@
 ## About
 
-A website that lets you learn to dance to In My Feelings, the viral song by Drake. It uses PoseNet (will be described later) to compare the poses of your and DrAIke. 
+A website that lets you dance to In My Feelings, the viral song by Drake. It uses PoseNet to compare DrAIke's and your poses and score how well you copied him. 
 
 Actually, this is pretty fun. Try it [here.](https://cryptic-taiga-14703.herokuapp.com/)
 
