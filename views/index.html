@@ -1,0 +1,38 @@
+<html>
+<head>
+ <link rel="stylesheet" type="text/css" href="../css/index.css">
+ <script src="https://cdn.jsdelivr.net/npm/dat.gui@0.7.2/build/dat.gui.js"></script>
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/posenet"></script>
+    
+    <script type="../js/store.legacy.min.js"></script>
+    <script src="../js/demo_util.js"></script>
+    <script src="../js/stats.min.js "></script>
+    <script src="../js/camera.js"></script>
+</head>
+<body>
+<div class="playground">
+    <center>
+	<div id="main" style="display: inline;">
+            <video id="video" playsinline style=" -moz-transform: scaleX(-1)
+            -o-transform: scaleX(-1);
+            -webkit-transform: scaleX(-1);
+            transform: scaleX(-1);
+            display: none;" width="531" height="531">
+            </video>
+            <canvas id="output" width="531" height="531"/>
+        </div>
+		
+        <video id="master" playsinline style="display: inline;" src="../videos/drake_master.mp4" width="531" height="531">
+        </video>
+	</center>
+		</div>
+	<div align = "center">
+	<p id = "score">Loading...</p>
+     <div class="tutorial_button" id="tuto4">
+        <!-- <a class="button" id="start_button" onclick="bindPage()">I'M READY!</a> -->
+        <a class="button" id="start_button" onclick="start()">I'M READY!</a>
+    </div>
+</div>
+	</body>
+</html>

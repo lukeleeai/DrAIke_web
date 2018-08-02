@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+html, body, div, h1, h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+p {
+  max-width: 560px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-family: "Open Sans";
+}
+
+h1 {
+  color: white; 
+}
+
+body, html {
+  font-family: "Fira Sans";
+  width: 100%;
+  background-color: #F7F7F7;
+}
+
+#score {
+  font-size: 50px;
+}
+
+#master{
+  border: 10px solid #5097D6;
+}
+
+#main{
+  display: block;
+}
+
+#output{
+  border: 10px solid #E04A5D;
+}
+
+.button {
+  margin-bottom: 30px; 
+  display: inline-block;
+  padding: 20px 25px;
+  font-size: 40px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0 9px #999;
+  width: 200px; 
+  display: none;
+}
+
+#start_button {
+  background-color: #F2385A;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.playground{
+  background-color: #F7F7F7;
+  margin : 100px;
+}
+

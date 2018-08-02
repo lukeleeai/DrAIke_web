@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+html, body, div, h1, h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+p {
+  max-width: 560px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 30px;
+  font-size: 18px;
+  display: none;
+}
+
+h1 {
+  color: white; 
+}
+
+body, html {
+  font-family: "Fira Sans";
+  width: 100%;
+  background-color: #F7F7F7;
+  /*height: 100%;*/
+}
+
+.tutorial_step{
+  width: 100%;
+  height: 70vh;
+  text-align: center;
+  display: table;
+}
+
+#tuto1{
+  background-color: #5186EC;
+}
+
+#tuto2{
+  background-color: #D95040;
+}
+
+#tuto3{
+  background-color: #F2BD42;
+}
+
+#tuto4{
+  background-color: #58A55C;
+}
+
+.tuto{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.tutorial_button{
+  width: 100%;
+  text-align: center;
+  line-height: 40vh;
+}
+
+.button {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 20px 60px;
+  color: #58A55C;
+  text-decoration: none;
+  font-size: 1.45em;
+  margin: 0 auto;
+  box-shadow: 0 9px #F9F9F9;
+  outline: none;
+}
+
+/* Active state animation applied here */
+.button:active {
+  -webkit-animation: active 1200ms ease 1 alternate;
+  animation: active 1200ms ease 1 alternate; 
+  background: #58A55C;
+  color: #fff;
+}
+
+
