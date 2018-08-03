@@ -9,7 +9,7 @@ As you can guess, the name “DrAIke” is the compound word of Drake and AI. Dr
 This is one of our website pages. You will be shown in the pink box through webcam. PoseNet will estimate and show your poses  like the one in the blue box.
 <img src="https://i.imgur.com/1akZnV3.jpg" alt="playground"/>
 
-Oh, let me introduce DrAIke. He's a really great dancer. His dream is beating Drake and thus becomming the best dancer in the world/ 
+Oh, let me introduce DrAIke. He's a really great dancer. His dream is beating Drake and thus becomming the best dancer in the world.
 <img src="https://media.giphy.com/media/1NZ5JH4Inu39bQnsks/giphy.gif" alt="draikeDancing" style="width: 200px;"/>
 
 And DrAIke will show you his dancing videos depending on your score. This is only one of them. And it's Gangnam Style by Psy if you guessed right!
