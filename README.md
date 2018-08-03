@@ -16,7 +16,10 @@ And DrAIke will show you his dancing videos depending on your score. This is onl
 <img src="https://media.giphy.com/media/1hzAJNzt8lzxRTEHGA/giphy.gif" alt="gangnamStyle" style="width: 600px;"/>
 
 
-We began this project when we got inspired by [this video](https://www.youtube.com/watch?v=prswDGGmYaE) of [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), the well-known Youtuber who ambitiously educate deep learning to people. He also provided us with numerous feedbacks, leading to several critical improvements to our code. Here is his PoseNet code: https://github.com/llSourcell/InMyFeelings_Challenge
+We began this project when we got inspired by [this video](https://www.youtube.com/watch?v=prswDGGmYaE) of [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured), the well-known Youtuber who ambitiously educate deep learning to people. He also provided us with numerous feedbacks, leading to several critical improvements to our code. Here is his PoseNet code: https://github.com/llSourcell/InMyFeelings_Challenge  
+
+Thank you for sharing our website!
+<img src="https://i.imgur.com/PfN9zHg.png" alt="iLuvUSiraj" style="width: 600px;"/>
 
 We will keep adding the documents here and improve our website.  
 Actually, we are highschoolers, and this is our first web project. So there can be many stupid codes. If you want to improve them, please let us know on "issues".
