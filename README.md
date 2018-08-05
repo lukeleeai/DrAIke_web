@@ -7,7 +7,7 @@ Actually, this is really fun. You don't have be a dancer. Try it [here.](https:/
 As you can guess, the name “DrAIke” is the compound word of Drake and AI. DrAIke refers to both this webiste and the master dancer in this game. Your score will vary according to how well you imitate DrAike. Also, you'll be able to enjoy several exciting videos provided by PoseNet. This project utilizes TensorFlow.js, the popular deep learning framework that runs on browers, and PoseNet, the project that detects the poses through computer vision. Both are developed by Google. (I love you Google!) 
 
 This is one of our website pages. You will be shown in the pink box through webcam. PoseNet will estimate and show your poses  like the one in the blue box.
-<img src="https://i.imgur.com/1akZnV3.jpg" alt="playground"/>
+<img src="https://i.imgur.com/HcvBp1B.jpg" alt="playground"/>
 
 Oh, let me introduce DrAIke. He's a really great dancer. His dream is beating Drake and thus becomming the best dancer in the world.
 <img src="https://media.giphy.com/media/1NZ5JH4Inu39bQnsks/giphy.gif" alt="draikeDancing" style="width: 200px;"/>
